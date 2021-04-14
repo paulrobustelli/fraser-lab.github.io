@@ -6,16 +6,6 @@ group: contact
 
 # Contact the Robustelli Lab
 
-
-<div class="row">
-
-<div class="col-md-4">
-
-  <h4>Lab Area </h4>
-  tel: 415 502 3488
-
-</div>
-
 <div class="col-md-4">
 
   <h4>Paul Robustelli, Ph.D.</h4>
