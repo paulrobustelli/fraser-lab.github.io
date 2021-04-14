@@ -13,7 +13,7 @@ group: contact
   Department of Chemistry  <br>
   Neukom Cluster of Computational Science <br>
   Dartmouth College   <br>
-  Paul.J.Robustelli@dartmouth.edu <br>
+  Paul.J.Robustelli@Dartmouth.edu <br>
  
 # Directions to the Fraser Lab
 
